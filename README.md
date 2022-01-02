@@ -1,4 +1,5 @@
-Projet n°8 de la formation Data Scientist d'OpenClassrooms: **Déployez un modèle dans le Cloud**
+Projet n°8 de la formation Data Scientist d'OpenClassrooms: **Déployez un modèle dans le Cloud** <br>
+[Cliquez ici pour voir l'énoncé complet](https://openclassrooms.com/fr/paths/164/projects/633/assignment)
 
 # Enoncé
 
